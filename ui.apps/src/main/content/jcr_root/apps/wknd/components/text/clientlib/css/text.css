@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&family=Sniglet&display=swap');
+
+p {
+    font-family: "Roboto", sans-serif;
+    color: white;
+    font-weight: bold;
+    font-size: 30px;
+    line-height: 35px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+}
+
+p a{
+    text-decoration: none;
+    color: white;
+}
+
+
+#text-18d8e3816e  p{
+    justify-content: center;
+    font-size:32px;
+}
+#text-826d8bf610  p{
+    justify-content: center;
+    font-size:18px;
+}
+#text-97458e4c89 p{
+    justify-content: center;
+    font-size:18px;
+    font-weight: normal;
+}
+#text-97458e4c89{
+    background-color: #0C417F;
+    bottom: 0;
+}
